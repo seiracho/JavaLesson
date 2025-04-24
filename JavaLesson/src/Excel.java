@@ -40,6 +40,19 @@ public class Excel {
 		LinkedList.add("なめこ");
 		LinkedList.add("とまと");
 		LinkedList.add("こめな");
+		String element1 = LinkedList.get(0);
+		String element2 = LinkedList.get(2);
+		System.out.println(element1 + "," + element2);
+		
+		//5
+		/*List<String> numList2 = new ArrayList<String>();
+		numList2.add(10);
+		numList2.add(11);
+		numList2.add(12);
+		System.out.println();*/
+		
+		
+		
 		
 		
 	}
