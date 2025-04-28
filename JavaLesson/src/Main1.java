@@ -1,5 +1,5 @@
 
-public class Main1 {
+/*public class Main1 {
 	public static void main(String args[]) {
 		AnimalDogCat animaldogcat = new Animal1();
 		Dog1 dog1 = new Dog1();
@@ -14,4 +14,4 @@ public class Main1 {
 
 }
 
-}
+}*/

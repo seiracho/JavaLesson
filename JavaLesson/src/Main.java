@@ -1,6 +1,6 @@
 
 
-public class Main {
+/*public class Main {
     public static void main(String[] args){
                 BankAccount account = new BankAccount("山田太郎", 10000.0);
 
@@ -47,5 +47,5 @@ public class Main {
                 }
                 // ポリモフィズム-------------------------------------------------------------------------------------
             }
-    }
+    }*/
 
