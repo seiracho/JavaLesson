@@ -2,7 +2,7 @@ package jp.co.aforce.practice;
 
 public class PracticeTest5 {
 
-	public static void main(String[] args) { */
+	public static void main(String[] args) { 
 		// TODO 自動生成されたメソッド・スタブ
 		//1
 		/*回答:Randomのインポート(はじめインスタンス化が
