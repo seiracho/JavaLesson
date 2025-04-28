@@ -1,4 +1,4 @@
-/*package jp.co.aforce.practice;
+package jp.co.aforce.practice;
 
 public class PracticeTest5 {
 
@@ -10,7 +10,7 @@ public class PracticeTest5 {
 		 * クラスファイル名でインスタンス化しようとした)
 		 * 
 		 */
-		/*PracticeTest5 random = new PracticeTest5();
+		PracticeTest5 random = new PracticeTest5();
 		int fortune = random.nextInt();//nextInt()に数値入れないといけないっぽい(それなら出力させとけばよかった)
 		//String result ="";
 		switch (fortune) {
@@ -53,4 +53,4 @@ public class PracticeTest5 {
 
 	}
 
-}*/
+}
