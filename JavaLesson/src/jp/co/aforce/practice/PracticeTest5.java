@@ -1,4 +1,4 @@
-package jp.co.aforce.practice;
+/*package jp.co.aforce.practice;
 
 public class PracticeTest5 {
 
@@ -10,6 +10,7 @@ public class PracticeTest5 {
 		 * クラスファイル名でインスタンス化しようとした)
 		 * 
 		 */
+/*
 		PracticeTest5 random = new PracticeTest5();
 		int fortune = random.nextInt();//nextInt()に数値入れないといけないっぽい(それなら出力させとけばよかった)
 		//String result ="";
@@ -31,6 +32,7 @@ public class PracticeTest5 {
 			
 		
 		//2
+			/*
 		System.out.print("問題２\n");
 		for (int num = 1; num < 100; num++) {
 			if (num % 7 == 0) {
@@ -43,6 +45,7 @@ public class PracticeTest5 {
 		}
 		
 		//3
+		/*
 		System.out.print("問題３\n");
 		for (int i = 1; i <= 9; i++) {
 			for(int e = 1; e <= 9; e++) {
@@ -54,3 +57,4 @@ public class PracticeTest5 {
 	}
 
 }
+*/

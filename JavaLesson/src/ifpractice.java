@@ -1,3 +1,4 @@
+import org.apache.commons.lang3.StringUtils;
 
 public class ifpractice {
 	public static void main(String args []) {
@@ -96,10 +97,12 @@ public class ifpractice {
 		}
 	System.out.println("現在の信号:" + color + " - " + message);
 	
+	//StringUtilクラス.メソッド();
+	String reversed = StringUtils.reverse("abcde");
+	System.out.println(reversed);
 	}
 	
-	
-	
+
 	
 	
 	
